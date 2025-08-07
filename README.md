@@ -39,10 +39,6 @@ Full-stack pet shop web application built with the MERN stack including:
 - Shopping cart functionality
 - Responsive UI design
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om-5300&show_icons=true&theme=radical)
-
 ### 🔗 Connect With Me
 
 - **LinkedIn:** [Om Barasara](https://linkedin.com/in/om-barasara-07057b252)

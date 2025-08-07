@@ -100,9 +100,6 @@ I enjoy creating dynamic and responsive web applications that solve real-world p
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Om-5300&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-5300&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 

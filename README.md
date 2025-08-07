@@ -96,15 +96,6 @@ I enjoy creating dynamic and responsive web applications that solve real-world p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-5300&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-5300&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 📜 Certificates
 
 ![IBM](https://img.shields.io/badge/IBM-Cyber_Security_Fundamentals-blue?style=for-the-badge)

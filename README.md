@@ -100,7 +100,6 @@ I enjoy creating dynamic and responsive web applications that solve real-world p
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Om-5300&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-5300&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
